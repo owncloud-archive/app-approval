@@ -6,7 +6,6 @@ If you have developed an app and want it to get reviewed and approved for inclus
 # Template
 * App name
 * new/update: is this the first review for approval or a release or a previously approved app
-devURL: 
 * StoreURL: URL of your app in the ownCloud app store on apps.owncloud.com
 * Repo: URL of your app in github or another source code tracker
 * authors: @mentions or name + email addresses of at least core (regular) contributors/developers
