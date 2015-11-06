@@ -23,6 +23,6 @@ Some social guidelines for reviewing:
 * **Allow differences of opinion**. Code is art. And like with any art, beauty is in the eye of the beholder. Some things are technically good or bad, but other things (indentation, anyone?) are merely a matter of taste. Don't get upset about them.
 * **Accept emotions**. We LOVE what we do. That can create strong feelings. Sometimes people are tired or distracted and get upset. A single outburst should not disqualify anybody - give people the benefit of the doubt and give them a chance to explain and apologize. Vice-versa, be strong enough to apologize yourself if need be.
 
-Remember: *Kindness shows strenght. Rudeness shows lack of interest and confidence.*
+Remember: *Kindness shows strength. Rudeness shows lack of interest and confidence.*
 
 Welcome to the ownCloud Community!
