@@ -1,7 +1,7 @@
 # app-approval
 A repository to track the approval status of apps on apps.owncloud.com 
 
-If you have developed an app and want it to get reviewed and approved for inclusion in the ownCloud app store, create an issue here, filling in the details in the following template:
+If you have developed an app and want it to get reviewed and approved for inclusion in the ownCloud app store, read the [publishing documentation with requirements here](https://doc.owncloud.org/server/9.0/developer_manual/app/publishing.html) (update version number in the link to the latest!) and then create an issue in this repository, filling in the details in the following template:
 
 # Template
 * App name
