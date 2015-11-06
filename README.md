@@ -10,7 +10,7 @@ devURL:
 * StoreURL: URL of your app in the ownCloud app store on apps.owncloud.com
 * Repo: URL of your app in github or another source code tracker
 * authors: @mentions or name + email addresses of at least core (regular) contributors/developers
-comments: Please note how you applied the app guidelines and share your thoughts on why the app would be a great addition for the ownCloud ecosystem.
+* comments: Please note how you applied the app guidelines and share your thoughts on why the app would be a great addition for the ownCloud ecosystem.
 
 Please put app name and new or update in the title of the github issue.
 
